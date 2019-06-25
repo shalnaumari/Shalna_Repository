@@ -1,0 +1,7 @@
+git config --global user.name "shalnaumari"
+git config --global user.email "shalna.umari"
+git add DELETE.txt
+git config 
+git rm -cache DELETE.txt
+git status 
+git commit -m 
